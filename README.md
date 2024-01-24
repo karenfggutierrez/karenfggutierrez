@@ -1,4 +1,4 @@
-### Hi there! I'm Karen Gonzalez 👋
+# Hi there! I'm Karen Gonzalez 👋
 
 ## About me
 - 🔭 Frontend Developer
@@ -11,9 +11,14 @@
 - ⚡ Languages: Spanish, English, and a bit of German
 
 ## Technology stack
-- Frontend Developer            - Frontend Developer
-- Frontend Developer            - Frontend Developer
-- Frontend Developer            - Frontend Developer
-- Frontend Developer            - Frontend Developer
-- Frontend Developer            - Frontend Developer
-- Frontend Developer            - Frontend Developer
+- ⭐ Javascript         - ⭐ React.js            - ⭐ HTML
+- ⭐ CSS                - ⭐ Git & Github        - ⭐ SASS
+- ✨ Angular            - ✨ Typescript          - ✨ Visual Studio Code
+- ✨ Java               - ✨ SQL                 - ✨ Spring & Springboot
+- 🔸 JSON               - 🔸 JSX                  - 🔸 REST
+- 🔸 Bootstrap          - 🔸 Figma                - 🔸 Trello
+- 🔸 Eclipse            - 🔸 Intellij             - 🔸 SVN
+- 🔸 Scrum              - 🔸 Azure DevOps         - 🔸 AWS
+- 🔸 Postman            - 🔸 Swagger              - 🔸 Excel & windows package
+- 🔸 MySQL              - 🔸 Oracle Database      - 🔸 Razor
+- 🔸 Apache Maven       - 🔸 Node.js & NPM        - 🔸 Linux shell
