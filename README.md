@@ -17,7 +17,7 @@
 ⭐ CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Git & Github &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ SASS <br/>
 ✨ Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Typescript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Visual Studio Code <br/>
 ✨ Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Spring & Springboot <br/>
-🔸 JSON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 JSX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 REST <br/>
+🔸 JSON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 JSX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 API REST <br/>
 🔸 Bootstrap &nbsp;&nbsp;&nbsp; 🔸 Figma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Trello <br/>
 🔸 Eclipse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Intellij &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 SVN <br/>
 🔸 Scrum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Azure DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 AWS <br/>
@@ -25,7 +25,7 @@
 🔸 MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle Database &nbsp;&nbsp; 🔸 Razor <br/>
 🔸 Linux shell &nbsp;&nbsp; 🔸 Node.js & NPM &nbsp;&nbsp;&nbsp; 🔸 Apache Maven <br/>
 🔸 Bitbucket &nbsp;&nbsp;&nbsp; 🔸 Confluence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Jira <br/>
-🔸 Jenkins
+🔸 Jenkins &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 API SOAP
 
 <br/>
 <img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
