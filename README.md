@@ -24,7 +24,7 @@
 🔸 Postman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Swagger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Excel & windows package <br/>
 🔸 MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle Database &nbsp;&nbsp; 🔸 Razor <br/>
 🔸 Linux shell &nbsp;&nbsp; 🔸 Node.js & NPM &nbsp;&nbsp;&nbsp; 🔸 Apache Maven <br/>
-🔸 Bitbucket &nbsp;&nbsp;&nbsp; 🔸 Confluence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Jira
+🔸 Bitbucket &nbsp;&nbsp;&nbsp; 🔸 Confluence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Jira <br/>
 🔸 Jenkins
 
 <br/>
