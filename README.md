@@ -26,6 +26,7 @@
 🔸 Linux shell &nbsp;&nbsp; 🔸 Node.js & NPM &nbsp;&nbsp;&nbsp; 🔸 Apache Maven <br/>
 🔸 Bitbucket &nbsp;&nbsp;&nbsp; 🔸 Confluence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Jira <br/>
 🔸 Jenkins &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 API SOAP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Microservices
+sonarqube
 
 <br/>
 <img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
