@@ -16,17 +16,18 @@
 ⭐ Javascript &nbsp;&nbsp;&nbsp; ⭐ React.js &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ HTML <br/>
 ⭐ CSS &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ Git & Github &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ⭐ SASS <br/>
 ✨ Angular &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Typescript &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Visual Studio Code <br/>
+✨ UX/UI  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Next.js &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Tailwind <br/>
 ✨ Java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ SQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ✨ Spring & Springboot <br/>
 🔸 JSON &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 JSX &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 API REST <br/>
-🔸 Bootstrap &nbsp;&nbsp;&nbsp; 🔸 Figma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Trello <br/>
+🔸 Bootstrap &nbsp;&nbsp;&nbsp; 🔸 Figma &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Framermotion <br/>
 🔸 Eclipse &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Intellij &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 SVN <br/>
 🔸 Scrum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Azure DevOps &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 AWS <br/>
-🔸 Postman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Swagger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Excel & windows package <br/>
+🔸 Postman &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Swagger &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Excel & Microsoft 365 <br/>
 🔸 MySQL &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Oracle Database &nbsp;&nbsp; 🔸 Razor <br/>
 🔸 Linux shell &nbsp;&nbsp; 🔸 Node.js & NPM &nbsp;&nbsp;&nbsp; 🔸 Apache Maven <br/>
 🔸 Bitbucket &nbsp;&nbsp;&nbsp; 🔸 Confluence &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Jira <br/>
 🔸 Jenkins &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 API SOAP &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Microservices <br/>
-🔸 Sonarqube &nbsp; 🔸 UX/UI
+🔸 Sonarqube &nbsp; 🔸 Trello
 
 <br/>
 <img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
