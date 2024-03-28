@@ -1,4 +1,5 @@
-<img align="center" alt="banner" src="https://media.licdn.com/dms/image/D4E16AQEo7X6o16YGqg/profile-displaybackgroundimage-shrink_350_1400/0/1699460052217?e=1711584000&v=beta&t=5974bRRGy3JJbjSX8IbaZICBOQpz8RWGgygxj653QM8" /><br/>
+![Portada](https://github.com/karenfggutierrez/karenfggutierrez/assets/69605681/db522f23-9b59-4eb9-8315-88b6b6440b6b)
+<br/>
 
 <h1 align="center"><b>Hi there! I'm Karen Gonzalez 👋</b></h1><br/>
 
