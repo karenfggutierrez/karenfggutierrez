@@ -36,6 +36,7 @@
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-aqua?style=for-the-badge&logo=springboot)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
+![Microservices](https://img.shields.io/badge/Microservices-brown?style=for-the-badge)
 
 ### 👉 IDE's
 ![VSC](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
@@ -50,7 +51,7 @@
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
+![UX UI](https://img.shields.io/badge/UX%2FUI-pink?style=for-the-badge)
 
 ### 👉 Software & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -75,11 +76,11 @@
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F)
+![JSON](https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=json)
+![JSX](https://img.shields.io/badge/JSX-silver?style=for-the-badge)
+![Framermotion](https://img.shields.io/badge/Framermotion-green?style=for-the-badge)
 
 
-✨ UX/UI
-Springboot
-🔸 JSON 🔸 JSX 🔸 Microservices
 🔸 Framermotion <br/>
 🔸 SVN <br/>
 🔸 Scrum
