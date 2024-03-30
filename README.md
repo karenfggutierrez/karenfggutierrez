@@ -12,7 +12,7 @@
 - 📫 How to reach me: LinkedIn
 - 😄 Join me in my learning and career path!
 - ⚡ Languages: Spanish, English, and a bit of German 
-<br/>
+<br/><br/><br/>
 
 ## 💻Technology stack
 
@@ -33,19 +33,25 @@
 
 ### 👉 Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-aqua?style=for-the-badge&logo=springboot)
 ![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-brown?style=for-the-badge)
+![API REST](https://img.shields.io/badge/API_REST-beige?style=for-the-badge)
+![API SOAP](https://img.shields.io/badge/API_SOAP-ivory?style=for-the-badge)
 
 ### 👉 IDE's
 ![VSC](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 ![intellijidea](https://img.shields.io/badge/intellij_idea-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=eclipseide&logoColor=white)
 
 ### 👉 Databases & Cloud Hosting
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
+![Oracle Database](https://img.shields.io/badge/Oracle_Database-indigo?style=for-the-badge)
+![Razor](https://img.shields.io/badge/Razor-red?style=for-the-badge)
 
 ### 👉 Designing
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -57,7 +63,6 @@
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
@@ -79,15 +84,10 @@
 ![JSON](https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=json)
 ![JSX](https://img.shields.io/badge/JSX-silver?style=for-the-badge)
 ![Framermotion](https://img.shields.io/badge/Framermotion-green?style=for-the-badge)
-
-
-🔸 Framermotion <br/>
-🔸 SVN <br/>
-🔸 Scrum
-🔸 Oracle Database 🔸 Razor <br/>
-🔸 Linux shell
-🔸 API SOAP 🔸 API REST <br/>
-🔸 Sonarqube <br/> <br/>
+![SVN](https://img.shields.io/badge/SVN-olive?style=for-the-badge)
+![Maroon](https://img.shields.io/badge/Scrum-maroon?style=for-the-badge)
+![Linux Shell](https://img.shields.io/badge/Linux_Shell-white?style=for-the-badge&logo=linux&logoColor=black)
+![SonarQube](https://img.shields.io/badge/SonarQube-pink?style=for-the-badge&logo=sonarqube) <br/><br/><br/>
 
 ## 🙋‍♀️ Let's Connect 
 <br/>
