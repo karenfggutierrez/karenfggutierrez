@@ -4,14 +4,13 @@
   <h1 align="center">
     Hi there! <img src="https://github.com/karenfggutierrez/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
   </h1>
-</p>
 <br/>
 
 ## 💫About me
 - 🔭 Frontend Developer
 - 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on Javascript projects
-- 🤔 I’m looking for a Frontend/React/Javascript role
+- 🤔 I’m looking for a Frontend/FullStack
 - 💬 Ask me what you want to know about me
 - 📫 How to reach me: LinkedIn
 - 😄 Join me in my learning and career path!
@@ -126,6 +125,10 @@
 <div align="center">
 <img align="center" width="500" alt="GIF" src="https://github.com/karenfggutierrez/Images/blob/main/dino.gif" />
 </div>
+<br/>
+<br/>
 
-<br/><br/><br/>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="000000")](https://github.com/karenfggutierrez)
+
+<br/>
 <img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
