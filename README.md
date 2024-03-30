@@ -1,7 +1,11 @@
 ![Portada](https://github.com/karenfggutierrez/karenfggutierrez/assets/69605681/db522f23-9b59-4eb9-8315-88b6b6440b6b)
-<br/>
+<br/><br/>
 
-<h1 align="center"><b>Hi there! I'm Karen Gonzalez 👋</b></h1><br/>
+  <h1 align="center">
+    Hi there! <img src="https://github.com/karenfggutierrez/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
+  </h1>
+</p>
+<br/>
 
 ## 💫About me
 - 🔭 Frontend Developer
@@ -89,8 +93,28 @@
 ![Linux Shell](https://img.shields.io/badge/Linux_Shell-white?style=for-the-badge&logo=linux&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-pink?style=for-the-badge&logo=sonarqube) <br/><br/><br/>
 
-## 🙋‍♀️ Let's Connect 
+## 💻GitHub stats
+
+### 👉 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenfggutierrez&layout=donut&hide=roff&theme=nightowl)](https://github.com/karenfggutierrez/github-readme-stats)
 <br/>
+### 👉 Stack
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karenfggutierrez&theme=nightowl)](https://github.com/karenfggutierrez/github-readme-stats)
+<br/>
+### 👉 Streak
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=karenfggutierrez&theme=nightowl&hide_border=false" width = 500>
+<br/>
+
+### 👉 Trophies
+<br/>
+<p align="center">
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=karenfggutierrez&layout=compact&theme=algolia" alt="trophys" />
+ </a>
+</p>
+<br/>
+
+## 🙋‍♀️ Let's Connect 
 <br/>
 <p align="center">
   <a href="https://karenfggutierrez.github.io/portfolio"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
@@ -98,6 +122,10 @@
 	<a href="https://github.com/karenfggutierrez"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/karenfggutierrez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
-
 <br/>
+<div align="center">
+<img align="center" width="500" alt="GIF" src="https://github.com/karenfggutierrez/Images/blob/main/dino.gif" />
+</div>
+
+<br/><br/><br/>
 <img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
