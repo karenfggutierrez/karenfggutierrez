@@ -6,7 +6,7 @@
   </h1>
 <br/>
 
-## 💫About me
+## 💫 About me
 - 🔭 Frontend Developer
 - 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on Javascript projects
@@ -17,7 +17,7 @@
 - ⚡ Languages: Spanish, English, and a bit of German 
 <br/><br/><br/>
 
-## 💻Technology stack
+## 💻 Technology stack
 
 ### 👉 Programming languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -128,7 +128,7 @@
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="000000")](https://github.com/karenfggutierrez)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/karenfggutierrez)
 
 <br/>
 
