@@ -1,5 +1,7 @@
-![Portada](https://github.com/karenfggutierrez/karenfggutierrez/assets/69605681/db522f23-9b59-4eb9-8315-88b6b6440b6b)
+<picture> <img align="center" src="https://github.com/karenfggutierrez/Images/blob/main/Portada2.gif?raw=true"></picture>
 <br/><br/>
+
+
 
   <h1 align="center">
     Hi there! <img src="https://github.com/karenfggutierrez/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
