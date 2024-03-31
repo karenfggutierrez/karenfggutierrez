@@ -1,8 +1,6 @@
 <picture> <img align="center" src="https://github.com/karenfggutierrez/Images/blob/main/Portada2.gif?raw=true"></picture>
 <br/><br/>
 
-
-
   <h1 align="center">
     Hi there! <img src="https://github.com/karenfggutierrez/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
   </h1>
@@ -133,4 +131,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="000000")](https://github.com/karenfggutierrez)
 
 <br/>
-<img width="100%" height="100px" align="center" alt="footer-img" src="https://motionarray.imgix.net/preview-292572-cz9Xqlsqxg-high_0013.jpg?w=660&q=60&fit=max&auto=format" /><br/>
+
+<picture> <img align="center" width="100%" height="100px" src="https://github.com/karenfggutierrez/Images/blob/main/animatedBanner.gif?raw=true"></picture>
