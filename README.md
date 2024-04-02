@@ -9,8 +9,8 @@
 ## 💫 About me
 - 🔭 Frontend Developer
 - 🌱 I’m currently learning UX/UI
-- 👯 I’m looking to collaborate on Javascript projects
-- 🤔 I’m looking for a Frontend/FullStack
+- 👯 I’m looking to collaborate on FullStack projects
+- 🤔 I’m looking for a Frontend/FullStack role
 - 💬 Ask me what you want to know about me
 - 📫 How to reach me: LinkedIn
 - 😄 Join me in my learning and career path!
