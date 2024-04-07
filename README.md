@@ -133,3 +133,4 @@
 <br/>
 
 <picture> <img align="center" width="100%" height="100px" src="https://github.com/karenfggutierrez/Images/blob/main/animatedBanner.gif?raw=true"></picture>
+<br/>
