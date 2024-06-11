@@ -90,7 +90,9 @@
 ![SVN](https://img.shields.io/badge/SVN-olive?style=for-the-badge)
 ![Maroon](https://img.shields.io/badge/Scrum-maroon?style=for-the-badge)
 ![Linux Shell](https://img.shields.io/badge/Linux_Shell-white?style=for-the-badge&logo=linux&logoColor=black)
-![SonarQube](https://img.shields.io/badge/SonarQube-pink?style=for-the-badge&logo=sonarqube) <br/><br/><br/>
+![SonarQube](https://img.shields.io/badge/SonarQube-pink?style=for-the-badge&logo=sonarqube)
+![Vite](https://img.shields.io/badge/vite-js?style=for-the-badge&color=white)
+<br/><br/><br/>
 
 ## 💻GitHub stats
 
