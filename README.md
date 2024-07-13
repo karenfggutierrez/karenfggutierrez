@@ -11,8 +11,6 @@
 - 🌱 I’m currently learning UX/UI
 - 👯 I’m looking to collaborate on FullStack projects
 - 🤔 I’m looking for a Frontend/FullStack role
-- 💬 Ask me what you want to know about me
-- 📫 How to reach me: LinkedIn
 - 😄 Join me in my learning and career path!
 - ⚡ Languages: Spanish, English, and a bit of German 
 <br/><br/><br/>
@@ -33,6 +31,8 @@
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-grey?style=for-the-badge)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 ### 👉 Backend Development
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -43,6 +43,7 @@
 ![Microservices](https://img.shields.io/badge/Microservices-brown?style=for-the-badge)
 ![API REST](https://img.shields.io/badge/API_REST-beige?style=for-the-badge)
 ![API SOAP](https://img.shields.io/badge/API_SOAP-ivory?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ### 👉 IDE's
 ![VSC](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
@@ -55,12 +56,14 @@
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![Oracle Database](https://img.shields.io/badge/Oracle_Database-indigo?style=for-the-badge)
 ![Razor](https://img.shields.io/badge/Razor-red?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB&logoColor=White)
 
 ### 👉 Designing
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Framermotion](https://img.shields.io/badge/Framermotion-green?style=for-the-badge)
+![UX UI](https://img.shields.io/badge/UX%2FUI-pink?style=for-the-badge)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![UX UI](https://img.shields.io/badge/UX%2FUI-pink?style=for-the-badge)
 
 ### 👉 Software & Tools
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
@@ -70,28 +73,28 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![jirasoftware](https://img.shields.io/badge/jira_software-0052CC.svg?style=for-the-badge&logo=jirasoftware&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![jUnit](https://img.shields.io/badge/junit-FF6C37?style=for-the-badge&logo=junit&logoColor=white)
 ![Apache Maven](https://img.shields.io/badge/Apache_Maven-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack%20-%23F7DF1E.svg?&style=for-the-badge&color=8ED5FA)
+![Vite](https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger%20-%23F7DF1E.svg?&style=for-the-badge&color=87BE3F)
 ![JSON](https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=json)
 ![JSX](https://img.shields.io/badge/JSX-silver?style=for-the-badge)
-![Framermotion](https://img.shields.io/badge/Framermotion-green?style=for-the-badge)
 ![SVN](https://img.shields.io/badge/SVN-olive?style=for-the-badge)
-![Maroon](https://img.shields.io/badge/Scrum-maroon?style=for-the-badge)
+![Scrum](https://img.shields.io/badge/Scrum-maroon?style=for-the-badge)
+![Lean](https://img.shields.io/badge/Lean-green?style=for-the-badge)
 ![Linux Shell](https://img.shields.io/badge/Linux_Shell-white?style=for-the-badge&logo=linux&logoColor=black)
 ![SonarQube](https://img.shields.io/badge/SonarQube-pink?style=for-the-badge&logo=sonarqube)
-![Vite](https://img.shields.io/badge/vite-js?style=for-the-badge&color=white)
+
 <br/><br/><br/>
 
 ## 💻GitHub stats
@@ -123,6 +126,7 @@
 	<a href="https://www.linkedin.com/in/karenfggutierrez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br/>
+A nice dinosaur:
 <div align="center">
 <img align="center" width="500" alt="GIF" src="https://github.com/karenfggutierrez/Images/blob/main/dino.gif" />
 </div>
