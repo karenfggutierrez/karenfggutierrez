@@ -1,8 +1,8 @@
-<picture> <img align="center" src="https://github.com/karenfggutierrez/Images/blob/main/Portada2.gif?raw=true"></picture>
+<picture> <img align="center" src="https://github.com/karengonzalezdev/Images/blob/main/Portada2.gif?raw=true"></picture>
 <br/><br/>
 
   <h1 align="center">
-    Hi there! <img src="https://github.com/karenfggutierrez/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
+    Hi there! <img src="https://github.com/karengonzalezdev/Images/blob/main/Hi.gif" width="40px"> I'm Karen Gonzalez
   </h1>
 <br/>
 
@@ -100,19 +100,19 @@
 ## 💻GitHub stats
 
 ### 👉 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karenfggutierrez&layout=donut&hide=roff&theme=nightowl)](https://github.com/karenfggutierrez/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karengonzalezdev&layout=donut&hide=roff&theme=nightowl)](https://github.com/karengonzalezdev/github-readme-stats)
 <br/>
 ### 👉 Stack
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karenfggutierrez&theme=nightowl)](https://github.com/karenfggutierrez/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karengonzalezdev&theme=nightowl)](https://github.com/karengonzalezdev/github-readme-stats)
 <br/>
 ### 👉 Streak
-<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=karenfggutierrez&theme=nightowl&hide_border=false" width = 500>
+<img align="center" src = "https://github-readme-streak-stats.herokuapp.com?user=karengonzalezdev&theme=nightowl&hide_border=false" width = 500>
 <br/>
 
 ### 👉 Trophies
 <p align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=karenfggutierrez&layout=compact&theme=algolia" alt="trophys" />
+  <img src="https://github-profile-trophy.vercel.app/?username=karengonzalezdev&layout=compact&theme=algolia" alt="trophys" />
  </a>
 </p>
 <br/>
@@ -120,22 +120,22 @@
 ## 🙋‍♀️ Let's Connect 
 <br/>
 <p align="center">
-  <a href="https://karenfggutierrez.github.io/portfolio"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
-	<a href="mailto:karenfggutierrez@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/karenfggutierrez"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/karenfggutierrez/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://karengonzalezdev.github.io/portfolio"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"/></a>
+	<a href="mailto:karengonzalezdev@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/karengonzalezdev"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/karengonzalezdev/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 <br/>
 A nice dinosaur:
 <div align="center">
-<img align="center" width="500" alt="GIF" src="https://github.com/karenfggutierrez/Images/blob/main/dino.gif" />
+<img align="center" width="500" alt="GIF" src="https://github.com/karengonzalezdev/Images/blob/main/dino.gif" />
 </div>
 <br/>
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/karenfggutierrez)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&color="a349a4")](https://github.com/karengonzalezdev)
 
 <br/>
 
-<picture> <img align="center" width="100%" height="100px" src="https://github.com/karenfggutierrez/Images/blob/main/animatedBanner.gif?raw=true"></picture>
+<picture> <img align="center" width="100%" height="100px" src="https://github.com/karengonzalezdev/Images/blob/main/animatedBanner.gif?raw=true"></picture>
 <br/>
